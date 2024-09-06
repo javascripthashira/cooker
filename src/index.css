@@ -178,4 +178,7 @@
     height: auto;
     width: 100%;
   }
+  .recipe-detail img{
+    width: 10%;
+  }
 }
