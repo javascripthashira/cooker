@@ -215,6 +215,7 @@
   .Header button {
     padding: 7px 15px;
     font-size: 0.85rem;
+    width: 1.2rem;
   }
 
   .main-container {
