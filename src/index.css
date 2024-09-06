@@ -159,10 +159,9 @@
   /* Display two small cards side by side */
   .recipe-grid {
     width: 100%;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(1, 1fr);
     /* 2 cards side by side */
-    gap: 10px;
-    /* Reduced gap */
+    
   }
 
   .Card {
