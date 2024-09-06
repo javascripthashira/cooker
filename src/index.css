@@ -127,7 +127,25 @@
   padding: 20px;
   width: 80%;
 }
-
+    .recipe-detail {
+      padding: 15px;
+    }
+  
+    .recipe-detail h2 {
+      font-size: 1.75rem;
+    }
+  
+    .recipe-detail img {
+      max-width: 100%;
+    }
+  
+    .recipe-detail h3 {
+      font-size: 1.4rem;
+    }
+  
+    .recipe-detail p {
+      font-size: 1rem;
+    }
 /* Media Queries for Responsiveness */
 
 /* For mobile devices (max-width: 600px) */
